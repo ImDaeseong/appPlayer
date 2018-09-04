@@ -35,7 +35,6 @@ void CappPlayerInfoDlg::OnPaint()
 	CPaintDC dc(this);
 }
 
-//[MOMO]앱플레이어
 void CappPlayerInfoDlg::OnBnClickedButton1()
 {
 	CRegInfo reginfo;
